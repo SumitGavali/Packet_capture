@@ -1,0 +1,8 @@
+timestamp,alert_type,srcIP
+1704038407,Port_Scan,192.168.1.100
+1704038417,Port_Scan,192.168.1.100
+1704038417,DDoS_Attack,192.168.1.100
+timestamp,alert_type,srcIP
+1704038407,Port_Scan,192.168.1.100
+1704038417,Port_Scan,192.168.1.100
+1704038417,DDoS_Attack,192.168.1.100
