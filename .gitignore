@@ -1,0 +1,4 @@
+# Ignore generated files and build artifacts
+packets.csv
+alerts.csv
+detect_threats.exe
