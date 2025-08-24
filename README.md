@@ -211,9 +211,10 @@ Next:
 ---
 
 ### **Pranav – Threat Detection Engine**
-
+✅ Done: Implemented threat detection engine.
+ Next:
 * Read `packets.csv`.
-* Implement:
+* Implemented:
 
   * Port scan detection (same IP hitting many ports).
   * DDoS detection (high-frequency requests from one IP).
